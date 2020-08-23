@@ -15,5 +15,6 @@ title:  "Unlocking creativity. How to give your Bauchgefühl the reins to your l
 * Exercise needs to be fun - try to learn skills while sweating
 * Use the extra efficiency and energy to organise your second brain: think of it serving the same purpose sleep does for your first brain
 * Use weed to avoid listlessness and burnout. Only use when tired, aim to not ever be tired (should ideally translate to <2 joints a week).
-* Occasionally take a psychedelic - make it a ceremony (set and setting)
+* Occasionally take a psychedelic - make it a ceremony (set and setting), study something abstract (philosophy, maths, physics, evolutionary theory etc.) in the weeks beforehand.
 * Finally: when ideas grip you - have the courage to go with them. Show your Bauchgefühl some respect and let it learn.
+* When an idea strikes and you undertake a new project, keep an eye out for people in your area who would benefit greatly from helping you do the project. Share the ideas with them.
