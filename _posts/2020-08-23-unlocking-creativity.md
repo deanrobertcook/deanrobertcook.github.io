@@ -34,13 +34,14 @@ title:  "Unlocking creativity. How to give your Bauchgefühl the reins to your l
 * Take up either a form of dance or martial art
 * Keep a bit up to date with science and medicine news
 * If you're hiding anything about yourself, come out
-* Try giving a beggar >$20 on time
+* Try giving a beggar >$20 one time
 * Try (anonymously) paying for the coffee for the person behind you
 * Try and give one stranger a day a complement
 * Be as honest as you can about all encounters
 * When an idea grips you, work on it now.
 * If you can keep going, keep going
 * Keep your phone and laptop near your bed
+* When starting a project, recruit people you know who'd benefit from helping you
 
 ## In Detail (TODO)
 ### Remote work
