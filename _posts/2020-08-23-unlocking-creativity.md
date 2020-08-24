@@ -18,3 +18,4 @@ title:  "Unlocking creativity. How to give your Bauchgefühl the reins to your l
 * Occasionally take a psychedelic - make it a ceremony (set and setting), study something abstract (philosophy, maths, physics, evolutionary theory etc.) in the weeks beforehand.
 * Finally: when ideas grip you - have the courage to go with them. Show your Bauchgefühl some respect and let it learn.
 * When an idea strikes and you undertake a new project, keep an eye out for people in your area who would benefit greatly from helping you do the project. Share the ideas with them.
+* If you can keep going, keep going: ideas will strike at inconvenient moments, sometimes waking up up in the middle of the night. If possible, start working straight away (inspiration is perishable). At the very least, write down a quick plan and get it into your second brain.
