@@ -17,31 +17,38 @@ title:  "Unlocking creativity. How to give your Bauchgefühl the reins to your l
 * Work in fortnights, not weeks
 * Find ways to trade money for time
 * Make your work environment more comfortable
+* Always carry a lightweight linen bag with you
+* Start journaling to keep track of your todos
+* Always keep your journal and a pen in your bag.
+* Read books about psychology, behaviour, the mind, motivation etc.
+* Always keep you the book you're reading in your bag.
 * Get home-delivered, unprepared meals (e.g. HelloFresh)
 * Eat less meat (<twice per week) and consume fewer animal products
 * Keep an eye out for simple, healthy snacks you enjoy
 * Set up a good evening and morning routine
 * Prioritise sleep above all else, but learn to manage tiredness
 * Don't do heavy workouts when poorly slept
-* Don't bother going to gyms and don't count reps, unless you really enjoy it.
+* Don't bother going to gyms and don't count reps, unless you really enjoy it (but I doubt you do).
 * Exercise needs to be fun (learn skills while sweating)
-* Use weed to combat listlessness
-* Occasionally take a psychedelic
-* Drop alcohol consumption
-* Spend time in lots of different places around your city
-* Move to an interesting city
-* Organise to meet friends often
 * Take up either a form of dance or martial art
+* Use weed to combat listlessness - it'll get you going or put you to sleep
+* Occasionally take a psychedelic - prepare for each event thoroughly (set and setting)
+* Drop alcohol consumption - it's the least efficient drug
+* Move to an interesting city
+* Spend time in lots of different places around your city
 * Keep a bit up to date with science and medicine news
-* If you're hiding anything about yourself, come out
+* If you're hiding anything about yourself or your sexuality, do your best to come out. Sexuality, it turns out, is intimately tied to creativity.
 * Try giving a beggar >$20 one time
 * Try (anonymously) paying for the coffee for the person behind you
 * Try and give one stranger a day a complement
 * Be as honest as you can about all encounters
-* When an idea grips you, work on it now.
+* When an idea grips you, work on it now
 * If you can keep going, keep going
-* Keep your phone and laptop near your bed
+* Keep your phone and laptop near your bed at night
 * When starting a project, recruit people you know who'd benefit from helping you
+* Only respond to urgent messages and emails. Otherwise sit down for an hour either at the beginning or the end of the day and catch up on anything that can wait. These catch ups can also wait 2 or 3 days.
+* Organise to meet friends often
+* Use Google calendar. Ask people to just pick a time to meet you or call you rather than ask you when you're free.
 
 ## In Detail (TODO)
 ### Remote work
