@@ -2,10 +2,8 @@
 layout: post
 title:  The Hitchhiker's Guide to Learning German
 ---
-## Layout:
-
 ### Universal tips:
-* Decide if you need to be able to produce or just consume the language and to what level you need to learn it. Production is significantly harder and you may be better off just aiming to understand a language. For this, Be very clear what your goals are and **don't** try and be noble here, be honest with yourself and question your underlying motives, otherwise you're in for a lot of unnecessary discomfort e.g:
+* Decide if you need to be able to produce or just consume the language and to what level you need to learn it. Production is significantly harder and you may be better off just aiming to understand a language. For this reason, be very clear what your goals are and **don't** try and be noble here, be honest with yourself and question your underlying motives, otherwise you're in for a lot of unnecessary discomfort e.g:
   * To travel to the place: intermediate level consumption, low level production
   * To work in the language: intermediate to high level production and consumption
   * To reach (what we naturally think of as) fluency: high level production and consumption
@@ -27,8 +25,8 @@ title:  The Hitchhiker's Guide to Learning German
 * Individual tutoring might be a waste of time and money at this point
 
 ### Upper Beginner (A2)
-* Goal: To develop an feel for the language, start speaking about basic things
-* Switch Babble for [LingQ](https://www.lingq.com/en/) to read and listen to interesting content. LingQ enables you to punch a bit above your weight, keeping the reading interesting. You should be absolutely hammering LingQ with lots of shadowing.
+* Goal: To develop a feel for the language, start speaking about basic things
+* Switch Babbel for [LingQ](https://www.lingq.com/en/) to read and listen to interesting content. LingQ enables you to punch a bit above your weight, keeping the reading interesting. You should be absolutely hammering LingQ with lots of shadowing.
 * Look for opportunities to have simple conversations with natives: order things at shops, maybe have a (max!) 30min conversation with a close friend, etc.
 * You will feel your brain heating up with each encounter in the language - it's hard work at this point. Don't overdo it.
 
