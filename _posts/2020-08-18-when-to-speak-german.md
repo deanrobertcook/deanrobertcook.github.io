@@ -2,6 +2,7 @@
 layout: post
 title:  "Want to learn German? Don't bother speaking!"
 category: german
+published: false
 ---
 
 **Note**: for simplicity's sake I will refer to German native speakers as just "Germans" throughout the article, although I don't mean to exclude the other 5 countries where German is an official language. This advice also applies to any language where the natives speak English to an excellent degree. Most Scandinavian languages and Dutch would definitely fall under this category, but it also applies to any language in which you have friends who speak English better than you do their language.
