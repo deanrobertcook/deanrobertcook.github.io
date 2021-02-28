@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Finding My Life's Vocation
 ---
 > Some people die at 25 and aren't buried until 75 - Benjamin Franklin
